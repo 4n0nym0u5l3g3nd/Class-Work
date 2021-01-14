@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\DELL\source\repos\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\DELL\source\repos\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\DELL\source\repos\Encapsulation\obj\Debug\Encapsulation.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\DELL\source\repos\Encapsulation\obj\Debug\Encapsulation.pdb
