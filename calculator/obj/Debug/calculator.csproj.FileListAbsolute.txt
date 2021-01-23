@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\calculator\bin\Debug\calculator.exe.config
+C:\Users\DELL\source\repos\calculator\bin\Debug\calculator.exe
+C:\Users\DELL\source\repos\calculator\bin\Debug\calculator.pdb
+C:\Users\DELL\source\repos\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\calculator\obj\Debug\calculator.CalculatorOS.resources
+C:\Users\DELL\source\repos\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\DELL\source\repos\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\calculator\obj\Debug\calculator.exe
+C:\Users\DELL\source\repos\calculator\obj\Debug\calculator.pdb
